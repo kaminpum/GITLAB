@@ -6,6 +6,7 @@ void main()
   do
   {
 
+<<<<<<< HEAD
     printf("Cape is handesome 4th time");
 
     scanf("%s", Name);
@@ -46,5 +47,6 @@ void main()
     printf("\nContinue (YES for Yes)? ");
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
-  printf("Go far far away from my feet\n");
+
+  printf("See ya!\n");
 }
