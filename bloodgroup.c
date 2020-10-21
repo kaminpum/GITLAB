@@ -6,7 +6,7 @@ void main()
   do
   {
 
-    printf("kamin is beutiful 3rd time");
+    printf("you have to choose me ");
 
     scanf("%s", Name);
     do
@@ -46,5 +46,5 @@ void main()
     printf("\nContinue (YES for Yes)? ");
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
-  printf("Goodbye\n");
+  printf("See ya!\n");
 }
