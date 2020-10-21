@@ -5,7 +5,7 @@ void main()
   int i;
   do
   {
-    printf("What is your Name? ");
+    printf("Kamin is beautiful so much and i change my file 2nd time because");
     scanf("%s", Name);
     do
     {
